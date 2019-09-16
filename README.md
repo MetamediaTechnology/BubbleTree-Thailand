@@ -1,2 +1,2 @@
 # BubbleTree-Thailand
-*Demo link: [`BubbleTree-Thailand`](http://usermap.longdo.com/supanut/bubbletree-demo)*
+*Demo link: [`BubbleTree-Thailand`](https://metamediatechnology.github.io/BubbleTree-Thailand)*
